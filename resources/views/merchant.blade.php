@@ -64,22 +64,3 @@
                     <p style="font-size: 15px; color: #343A40">Rp 120.000</p>
                     <img src="image/baju4.png" class="card-img-center" alt="">
                 </div>
-            </div>
-            <div class="col col-card mb-2">
-                <div class="card a-card d-flex flex-column align-items-center mt-3" style="height: 22rem; width: 22rem">
-                    <p class="mt-4" style="font-weight: bold; font-size: 22px; color: #343A40">TS Keep Earth</p>
-                    <p style="font-size: 15px; color: #343A40">Rp 120.000</p>
-                    <img src="image/baju5.png" class="card-img-center" alt="">
-                </div>
-            </div>
-            <div class="col col-card mb-2">
-                <div class="card a-card d-flex flex-column align-items-center mt-3" style="height: 22rem; width: 22rem">
-                    <p class="mt-4" style="font-weight: bold; font-size: 22px; color: #343A40">TS Care Earth</p>
-                    <p style="font-size: 15px; color: #343A40">Rp 120.000</p>
-                    <img src="image/baju6.png" class="card-img-center" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-@endsection
